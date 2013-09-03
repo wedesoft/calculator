@@ -14,7 +14,7 @@ noinst_HEADERS = calculator.h
 
 BUILT_SOURCES = calc_bison.h
 
-EXTRA_DIST = Makefile.dist configure.ac README.md run.sh
+EXTRA_DIST = Makefile.dist configure.ac run.sh
 
 CLEANFILES = *~
 
