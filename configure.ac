@@ -8,7 +8,7 @@ AC_PROG_YACC
 AC_PROG_LEX
 AM_PROG_LIBTOOL
 AM_CONFIG_HEADER(config.h)
-AC_CHECK_HEADERS([assert.h stdio.h stdlib.h string.h])
+AC_CHECK_HEADERS([stdio.h])
 AC_OUTPUT(Makefile)
 
 

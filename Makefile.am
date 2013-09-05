@@ -1,4 +1,4 @@
-SUFFIXES = .c .h .tmp .y .l
+SUFFIXES = .c .h .y .l
 
 ACLOCAL_AMFLAGS = -I m4
 
