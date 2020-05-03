@@ -10,5 +10,3 @@ AM_PROG_LIBTOOL
 AM_CONFIG_HEADER(config.h)
 AC_CHECK_HEADERS([stdio.h])
 AC_OUTPUT(Makefile)
-
-

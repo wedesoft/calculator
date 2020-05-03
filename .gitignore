@@ -10,6 +10,7 @@ calc_bison.c
 calc_bison.h
 calc_flex.c
 calculator
+compile
 config.guess
 config.h
 config.h.in

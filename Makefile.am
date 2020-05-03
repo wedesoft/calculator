@@ -25,4 +25,3 @@ MAINTAINERCLEANFILES = aclocal.m4 config.guess config.sub configure \
 
 maintainer-clean-local:
 	-rm -rf m4
-
