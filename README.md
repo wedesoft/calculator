@@ -22,4 +22,4 @@ make
 rlwrap ./calculator
 ```
 
-See [article](http://www.wedesoft.de/bison-flex-automake.html) for more information.
+See [article](https://www.wedesoft.de/software/2013/09/04/bison-flex-automake/) for more information.
