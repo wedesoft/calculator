@@ -1,5 +1,7 @@
 %{
 #include "calc_bison.h"
+
+void yyerror(char *s);
 %}
 
 %option noyywrap

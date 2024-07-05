@@ -1,6 +1,8 @@
 %{
 #include <stdio.h>
 
+int yylex(void);
+
 void yyerror(char *s) {
   fprintf(stderr, "%s\n", s);
 }
